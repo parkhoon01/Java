@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Java_Hal_Goyang/src/com/pcwk/cmn/book_java.jason&apos; to &apos;book_java.json&apos;" description="Rename resource &apos;book_java.jason&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/pcwk/cmn/book_java.jason" name="book_java.json" stamp="1646371337309" updateReferences="true"/>
+</session>

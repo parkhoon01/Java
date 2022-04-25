@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.pcwk.cmn"},{"l":"com.pcwk.util.ex01.calendar"},{"l":"com.pcwk.util.ex02.date"}];updateSearchResults();

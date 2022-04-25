@@ -1,0 +1,63 @@
+2022-03-07 11:17:48,432 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 11:18:22,513 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 11:19:41,899 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 11:23:32,256 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 11:23:55,484 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 11:24:12,530 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 11:27:36,293 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 11:27:36,304 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/kings.txt (No such file or directory)=
+2022-03-07 11:27:36,304 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 11:27:36,304 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 11:27:47,265 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 11:27:47,276 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/kings.txt (No such file or directory)=
+2022-03-07 11:27:47,277 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 11:27:47,277 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 11:28:13,878 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 11:28:13,890 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/king.txt (No such file or directory)=
+2022-03-07 11:28:13,890 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 11:28:13,890 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 11:28:45,400 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 11:28:45,414 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/king.txt (No such file or directory)=
+2022-03-07 11:28:45,415 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 11:28:45,415 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 11:29:19,630 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 11:29:19,642 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/king.txt (No such file or directory)=
+2022-03-07 11:29:19,642 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 11:29:19,642 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 11:30:21,730 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 11:30:21,740 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/kingsTmp.csv (No such file or directory)=
+2022-03-07 11:30:21,741 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 11:30:21,741 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 11:31:02,128 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 12:00:15,901 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 12:00:51,444 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 12:01:32,131 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:40:44,916 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:44:08,758 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:48:50,090 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:53:29,825 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:53:37,868 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:54:30,093 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 13:59:04,712 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:07:18,808 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:09:39,562 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:12:18,072 DEBUG [main] cmn.LoggerManager ( KingDao.java:87)     - =================================
+2022-03-07 14:12:18,083 DEBUG [main] cmn.LoggerManager ( KingDao.java:88)     - =IOException: /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/Java_Hal_Goyang/src/com/pcwk/data/kings.csv (No such file or directory)=
+2022-03-07 14:12:18,083 DEBUG [main] cmn.LoggerManager ( KingDao.java:89)     - =================================
+2022-03-07 14:12:18,083 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-07 14:19:48,409 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:20:24,172 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:25:04,804 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:28:42,080 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:28:55,276 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:29:49,761 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:30:19,585 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:32:09,841 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:44:08,676 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 14:44:11,199 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 15:11:31,287 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 15:28:58,800 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 15:29:48,816 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 15:38:31,756 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 15:41:01,789 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-07 15:42:51,071 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공

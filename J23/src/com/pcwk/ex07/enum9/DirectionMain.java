@@ -1,0 +1,16 @@
+package com.pcwk.ex07.enum9;
+
+public class DirectionMain {
+
+	public static void main(String[] args) {
+		Direction d01 = Direction.EAST;
+		Direction d02 = Direction.valueOf("WEST");
+		System.out.println("d01: " + d01);
+		System.out.println("d02: " + d02);
+		
+		Direction[] directionArr = Direction.values();
+		for(Direction d : directionArr) {
+			System.out.println(d.name() + "=" + d.ordinal());
+		}
+	}
+}

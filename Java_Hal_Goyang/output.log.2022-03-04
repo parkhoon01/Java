@@ -1,0 +1,7 @@
+2022-03-04 15:16:25,173 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-04 15:17:38,653 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-04 15:18:08,205 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-04 15:22:44,292 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-04 15:26:32,153 DEBUG [main] cmn.LoggerManager ( KingDao.java:22)     - 파일 읽기 실패
+2022-03-04 15:27:48,964 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공
+2022-03-04 15:45:08,543 DEBUG [main] cmn.LoggerManager ( KingDao.java:25)     - 파일 읽기 성공

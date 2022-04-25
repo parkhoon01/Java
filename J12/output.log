@@ -1,0 +1,5 @@
+2022-02-21 08:46:41,589 DEBUG [main] string.LoggerManager (ExceptionEx02Main.java:14)     - 1 result:12
+2022-02-21 08:46:41,598 DEBUG [main] string.LoggerManager (ExceptionEx02Main.java:14)     - 1 result:33
+2022-02-21 08:46:41,598 DEBUG [main] string.LoggerManager (ExceptionEx02Main.java:17)     - 0 / by zero 발생
+2022-02-21 08:46:41,598 DEBUG [main] string.LoggerManager (ExceptionEx02Main.java:18)     - java.lang.ArithmeticException: / by zero
+2022-02-21 08:46:41,598 DEBUG [main] string.LoggerManager (ExceptionEx02Main.java:23)     - 3 프로그램 종료!

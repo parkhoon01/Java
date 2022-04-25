@@ -1,0 +1,77 @@
+2022-03-03 10:07:03,793 DEBUG [main] cmn.LoggerManager (FileReaderEx01.java:26)     - Log4j
+2022-03-03 10:27:07,114 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:36)     - 프로그램 종료!
+2022-03-03 10:27:35,876 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:36)     - 프로그램 종료!
+2022-03-03 10:30:39,074 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:39)     - 프로그램 종료!
+2022-03-03 10:39:25,325 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:42)     - 프로그램 종료!
+2022-03-03 10:42:15,548 DEBUG [main] cmn.LoggerManager (FileWriterEx01.java:50)     - 프로그램 종료!
+2022-03-03 11:02:23,670 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:42)     - 프로그램 완료!
+2022-03-03 11:03:50,641 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:43)     - 프로그램 완료!
+2022-03-03 11:08:21,475 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:43)     - 프로그램 완료!
+2022-03-03 11:08:58,157 DEBUG [main] cmn.LoggerManager (FileReaderWriterEx01.java:43)     - 프로그램 완료!
+2022-03-03 11:18:59,673 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ë
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - í
+2022-03-03 11:18:59,682 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,683 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,683 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,683 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,683 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ¸
+2022-03-03 11:18:59,684 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,684 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,684 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,684 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - .
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ¢
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,686 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     -  
+2022-03-03 11:18:59,688 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,688 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,689 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+2022-03-03 11:18:59,689 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ì
+2022-03-03 11:18:59,689 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ¹
+2022-03-03 11:18:59,690 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - ¨
+2022-03-03 11:18:59,690 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - !
+2022-03-03 11:18:59,690 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:42)     - 프로그램 종료!
+2022-03-03 11:19:17,251 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 안
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 녕
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 하
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 세
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 요
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - .
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 
+
+2022-03-03 11:19:17,259 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 좋
+2022-03-03 11:19:17,260 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 은
+2022-03-03 11:19:17,260 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     -  
+2022-03-03 11:19:17,261 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 아
+2022-03-03 11:19:17,261 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - 침
+2022-03-03 11:19:17,261 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:34)     - !
+2022-03-03 11:19:17,261 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:42)     - 프로그램 종료!
+2022-03-03 11:19:36,444 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:42)     - 프로그램 종료!
+2022-03-03 11:19:59,782 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:42)     - 프로그램 종료!
+2022-03-03 11:20:12,555 DEBUG [main] cmn.LoggerManager (InputStreamReaderEx01.java:42)     - 프로그램 종료!
+2022-03-03 11:26:44,012 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:31)     - -------------------
+2022-03-03 11:26:44,020 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:32)     - /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/J20/src/com/pcwk/ex05/buffer/BufferedReaderEx01.java99 (No such file or directory)
+2022-03-03 11:26:44,020 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:33)     - -------------------
+2022-03-03 11:26:44,020 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:35)     - 프로그램 종료!
+2022-03-03 11:27:37,410 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:30)     - -------------------
+2022-03-03 11:27:37,419 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:31)     - /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/J20/src/com/pcwk/ex05/buffer/BufferedReaderEx01.java99 (No such file or directory)
+2022-03-03 11:27:37,419 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:32)     - -------------------
+2022-03-03 11:27:37,419 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:38)     - 프로그램 종료!
+2022-03-03 11:27:58,264 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:30)     - -FileNotFoundException-
+2022-03-03 11:27:58,272 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:31)     - /Users/baghun/Desktop/DCOM_20220127/01_JAVA/workspace/J20/src/com/pcwk/ex05/buffer/BufferedReaderEx01.java99 (No such file or directory)
+2022-03-03 11:27:58,272 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:32)     - -------------------
+2022-03-03 11:27:58,272 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:38)     - 프로그램 종료!
+2022-03-03 11:29:11,262 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:41)     - 프로그램 종료!
+2022-03-03 11:33:17,023 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:44)     - 프로그램 종료!
+2022-03-03 11:34:08,062 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:46)     - 프로그램 종료!
+2022-03-03 11:34:19,466 DEBUG [main] cmn.LoggerManager (BufferedReaderEx01.java:46)     - 프로그램 종료!

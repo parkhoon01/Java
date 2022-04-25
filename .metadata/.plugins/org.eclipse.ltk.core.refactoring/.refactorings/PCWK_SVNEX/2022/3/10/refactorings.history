@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hello.java&apos; to &apos;PCWK_SVNEX/src/com.pcwk.svn.ex20&apos;&#x0A;- Original project: &apos;PCWK_SVNEX&apos;&#x0A;- Destination element: &apos;PCWK_SVNEX/src/com.pcwk.svn.ex20&apos;&#x0A;- Original element: &apos;com.pcwk.svn.ex01.Hello.java&apos;" description="Copy compilation unit" destination="/src&lt;com.pcwk.svn.ex20" element1="/src&lt;com.pcwk.svn.ex01{Hello.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1646201670603" units="1" version="1.0"/>
+</session>

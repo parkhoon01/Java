@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;J23/src/com.pcwk.ex10.address&apos;&#x0A;- Original project: &apos;Java_Hal_Goyang&apos;&#x0A;- Destination element: &apos;J23/src/com.pcwk.ex10.address&apos;&#x0A;- Original elements:&#x0A;     com.pcwk.cmn.DTO.java&#x0A;     com.pcwk.cmn.WorkDiv.java" description="Copy compilation units" destination="=J23/src&lt;com.pcwk.ex10.address" element1="/src&lt;com.pcwk.cmn{DTO.java" element2="/src&lt;com.pcwk.cmn{WorkDiv.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1647221811460" units="2" version="1.0"/>
+</session>

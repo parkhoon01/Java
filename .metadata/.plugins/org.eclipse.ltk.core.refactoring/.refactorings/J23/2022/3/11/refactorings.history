@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;TcpClient.java&apos; to &apos;J23/src/com.pcwk.ex04.net&apos;&#x0A;- Original project: &apos;J23&apos;&#x0A;- Destination element: &apos;J23/src/com.pcwk.ex04.net&apos;&#x0A;- Original element: &apos;com.pcwk.ex03.net.TcpClient.java&apos;" description="Copy compilation unit" destination="/src&lt;com.pcwk.ex04.net" element1="/src&lt;com.pcwk.ex03.net{TcpClient.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1646871639939" units="1" version="1.0"/>
+</session>
